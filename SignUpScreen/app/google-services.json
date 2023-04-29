@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366361152981",
+    "project_id": "signupscreen-c167f",
+    "storage_bucket": "signupscreen-c167f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366361152981:android:2a7abe47b854113585415c",
+        "android_client_info": {
+          "package_name": "com.example.signupscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366361152981-5ma9if35sh73cc8897js0qame52qscqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7h99WjgsukcAOiqzZrEM6Iv3PcViUueI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366361152981-5ma9if35sh73cc8897js0qame52qscqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
